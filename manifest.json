@@ -1,7 +1,7 @@
 {
     "name": "r34_modpack",
     "version_number": "1.0.5",
-    "website_url": "",
+    "website_url": "https://github.com/bym0/valheim_r34_modpack",
     "description": "Mini Modpack for some friends and me :)",
     "dependencies": [
         "gittywithexcitement-Build_Camera-1.6.1",
